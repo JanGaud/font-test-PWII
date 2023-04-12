@@ -60,7 +60,7 @@
 .first>h4{
     margin: 0;
     font-family: 'Lato', sans-serif;
-    font-size: 1rem;
+    font-size: 2rem;
 }
 
 .first>p{
@@ -85,7 +85,7 @@
     margin: 0;
     font-family: 'Alkatra', sans-serif;
     font-weight: lighter;
-    font-size: 1rem;
+    font-size: 2rem;
 }
 
 .second>p{
@@ -109,7 +109,7 @@
 .third>h4{
     margin: 0;
     font-family: 'PT Sans Narrow', sans-serif;
-    font-size: 1rem;
+    font-size: 2rem;
 }
 
 .third>p{
@@ -133,7 +133,7 @@
 .fourth>h4{
     margin: 0;
     font-family: 'Rubik', sans-serif;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 .fourth>p{
@@ -157,7 +157,7 @@
 .fifth>h4{
     margin: 0;
     font-family: 'Oxygen', sans-serif;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 .fifth>p{
@@ -181,7 +181,7 @@
 .sixth>h4{
     margin: 0;
     font-family: 'Caveat', cursive;
-    font-size: 2rem;
+    font-size: 2.5rem;
 }
 
 .sixth>p{
