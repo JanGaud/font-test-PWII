@@ -1,0 +1,191 @@
+/* ================== Titles =====================*/
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap');
+/* font-family: 'Cinzel Decorative', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&display=swap');
+/* font-family: 'Dancing Script', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri&display=swap');
+/* font-family: 'El Messiri', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital@1&display=swap');
+/* font-family: 'Lobster Two', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+/* font-family: 'Merienda', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@700&display=swap');
+/* font-family: 'Nanum Myeongjo', serif; */
+
+/* ==================== Texts ==================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@1,300&display=swap');
+/* font-family: 'Alegreya Sans', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Belleza&display=swap');
+/* font-family: 'Belleza', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
+/* font-family: 'Kalam', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+/* font-family: 'Sen', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic&display=swap');
+/* font-family: 'Zen Maru Gothic', serif; */
+
+
+/* ==================== SubTitles ==================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+/* font-family: 'Lato', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+/* font-family: 'Alkatra', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,300&display=swap');
+/* font-family: 'Rubik', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+/* font-family: 'PT Sans Narrow', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+/* font-family: 'Oxygen', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+/* font-family: 'Caveat', cursive; */
+
+
+
+/* ==================== First match ==================== */
+
+.first{
+    width: 90%;
+    overflow-wrap: normal;
+}
+
+.first>h1{
+    margin: 0;
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 4rem;
+}
+
+.first>h4{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    font-size: 3rem;
+}
+
+.first>p{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 3rem;
+}
+
+/* ==================== Second match ==================== */
+
+.second{
+    width: 90%;
+    overflow-wrap: normal;
+}
+
+.second>h1{
+    margin: 0;
+    font-family: 'Dancing Script', cursive;
+    font-size: 7rem;
+}
+
+.second>h4{
+    margin: 0;
+    font-family: 'Alkatra', sans-serif;
+    font-weight: lighter;
+    font-size: 3rem;
+}
+
+.second>p{
+    font-family: 'Kalam', cursive;
+    font-size: 3rem;
+}
+
+/* ==================== Third match ==================== */
+
+.third{
+    width: 90%;
+    overflow-wrap: normal;
+}
+
+.third>h1{
+    margin: 0;
+    font-family: 'Lobster Two', cursive;
+    font-size: 6rem;
+}
+
+.third>h4{
+    margin: 0;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 3rem;
+}
+
+.third>p{
+    font-family: 'Belleza', sans-serif;
+    font-size: 3rem;
+}
+
+/* ==================== Fourth match ==================== */
+
+.fourth{
+    width: 90%;
+    overflow-wrap: normal;
+}
+
+.fourth>h1{
+    margin: 0;
+    font-family: 'Merienda', cursive;
+    font-size: 4.5rem;
+}
+
+.fourth>h4{
+    margin: 0;
+    font-family: 'Rubik', sans-serif;
+    font-size: 2.5rem;
+}
+
+.fourth>p{
+    font-family: 'Sen', sans-serif;
+    font-size: 2.5rem;
+}
+
+/* ==================== Fifth match ==================== */
+
+.fifth{
+    width: 90%;
+    overflow-wrap: normal;
+}
+
+.fifth>h1{
+    margin: 0;
+    font-family: 'El Messiri', sans-serif;
+    font-size: 5rem;
+}
+
+.fifth>h4{
+    margin: 0;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 2.5rem;
+}
+
+.fifth>p{
+    font-family: 'Zen Maru Gothic', serif;
+    font-size: 3rem;
+}
+
+/* ==================== Sixth match ==================== */
+
+.sixth{
+    width: 90%;
+    overflow-wrap: normal;
+}
+
+.sixth>h1{
+    margin: 0;
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 5rem;
+}
+
+.sixth>h4{
+    margin: 0;
+    font-family: 'Caveat', cursive;
+    font-size: 4rem;
+}
+
+.sixth>p{
+    font-family: 'Zen Maru Gothic', serif;
+    font-style: italic;
+    font-size: 3rem;
+}
