@@ -20,7 +20,7 @@
 
 .btn-one{
     font-family: 'Rubik', sans-serif;
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: 600;
     border-radius: 5px;
     background-color: black;
@@ -54,7 +54,7 @@
 
 .btn-two {
     font-family: 'Oxygen', sans-serif;
-    font-size: 1.7rem;
+    font-size: 1rem;
     font-weight: 700;
     border-radius: 2px;
     background-image: url("/img/istockphoto-543580048-612x612.jpg");
@@ -65,6 +65,8 @@
 
 /* Disponible sur ordinnateur seulement */
 .btn-two:hover {
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
     background-color: rgb(255, 255, 255);
     background-image: none;
     color: rgb(0, 0, 0);
@@ -87,7 +89,7 @@
 
 .btn-three {
     font-family: 'Oxygen', sans-serif;
-    font-size: 1.7rem;
+    font-size: 1rem;
     font-weight: 700;
     border-radius: 2px;
     background-color: #000000;
@@ -126,7 +128,7 @@
 
 .btn-four {
     font-family: 'Oxygen', sans-serif;
-    font-size: 1.7rem;
+    font-size: 1rem;
     font-weight: 700;
     border-radius: 2px;
     background-color: #000000;
@@ -258,7 +260,7 @@
      position: relative;
      display: inline-block;
      padding: 10px 20px;
-     font-size: 16px;
+     font-size: 1rem;
      text-align: center;
      text-transform: uppercase;
      color: #fff;
@@ -304,7 +306,7 @@
 
 .btn-height {
     font-family: 'PT Sans Narrow', sans-serif;
-    font-size: 1.2rem;
+    font-size: 1rem;
     width: 12rem;
     height: 50px;
     border: none;
