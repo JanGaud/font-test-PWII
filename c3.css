@@ -1,0 +1,23 @@
+:root{
+    --BgColor: #E6E6ED;
+    --PrimaryColor: #342520;
+    --SecondaryColor: #3A0000;
+    --ThirdColor: #590000;
+    --FourthColor: #CDBD56;
+}
+
+body{
+    background-color: var(--BgColor);
+}
+
+h1{
+    color: var(--PrimaryColor);
+}
+
+h4{
+    color: var(--FourthColor);
+}
+
+p{
+    color: var(--PrimaryColor);
+}
