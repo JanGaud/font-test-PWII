@@ -57,7 +57,7 @@
     font-size: 1rem;
     font-weight: 700;
     border-radius: 2px;
-    background-image: url("/img/istockphoto-543580048-612x612.jpg");
+    background-image: url("../img/istockphoto-543580048-612x612.jpg");
     background-size: cover;
     color: rgb(255, 255, 255);
     transition: 0.4s;
