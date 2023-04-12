@@ -54,18 +54,18 @@
 .first>h1{
     margin: 0;
     font-family: 'Cinzel Decorative', cursive;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 .first>h4{
     margin: 0;
     font-family: 'Lato', sans-serif;
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .first>p{
     font-family: 'Alegreya Sans', sans-serif;
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
 /* ==================== Second match ==================== */
@@ -78,7 +78,7 @@
 .second>h1{
     margin: 0;
     font-family: 'Dancing Script', cursive;
-    font-size: 3rem;
+    font-size: 3.5rem;
 }
 
 .second>h4{
@@ -127,18 +127,18 @@
 .fourth>h1{
     margin: 0;
     font-family: 'Merienda', cursive;
-    font-size: 3.5rem;
+    font-size: 2rem;
 }
 
 .fourth>h4{
     margin: 0;
     font-family: 'Rubik', sans-serif;
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 .fourth>p{
     font-family: 'Sen', sans-serif;
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
 /* ==================== Fifth match ==================== */
