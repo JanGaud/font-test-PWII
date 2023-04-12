@@ -23,12 +23,12 @@ body{
 
 .gauche{
     padding: 30px;
-    width: 70%;
+    width: 30%;
     height: 100%;
 }
 
 .droite{
-    width: 30%;
+    width: 70%;
 }
 
 .img-contain{
