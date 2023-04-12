@@ -1,10 +1,10 @@
-body{
-    height: fit-content;
+body {
     margin: 0;
-    padding: 0;
+    padding-top: 80px;
+    height: fit-content;
 }
 
-.left-right-separate{
+.left-right-separate {
     display: flex;
     justify-content: space-between;
     flex-direction: row;
@@ -12,19 +12,19 @@ body{
     height: 100%;
 }
 
-.gauche{
+.gauche {
     display: flex;
     flex-direction: column;
     gap: 30px;
 }
 
-.gauche{
+.gauche {
     padding: 30px;
     width: 50%;
     height: 100%;
 }
 
-.droite{
+.droite {
     width: 50%;
     height: auto;
     background-image: url("../img/Phishing-Emails.jpeg");
@@ -34,14 +34,20 @@ body{
 
 /* =================== header =================== */
 
+/* =================== header =================== */
+
 nav {
+    z-index: 2;
+    position: fixed;
+    top: 0;
+    width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
     align-items: center;
     padding: 0 30px;
     height: 80px;
-    background-color: #000000;
+    background-color: #000000dd;
 }
 
 .dropbtn {
