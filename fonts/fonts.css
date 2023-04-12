@@ -189,3 +189,7 @@
     font-style: italic;
     font-size: 1rem;
 }
+
+.btn-contain{
+    padding: 0!important;
+}
