@@ -6,6 +6,7 @@ body{
 
 .left-right-separate{
     display: flex;
+    justify-content: space-between;
     flex-direction: row;
     width: 100%;
     height: 100%;
@@ -17,31 +18,18 @@ body{
     gap: 30px;
 }
 
-.gauche>*+*{
-    border-top: 3px solid black;
-}
-
 .gauche{
     padding: 30px;
-    width: 30%;
+    width: 50%;
     height: 100%;
 }
 
 .droite{
-    width: 70%;
-    height: 100%;
-}
-
-.img-contain{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    overflow: hidden;
-}
-
-.img-contain img{
-    width: auto;
-    height: 100%;
+    width: 50%;
+    height: auto;
+    background-image: url("../img/Phishing-Emails.jpeg");
+    background-size: cover;
+    background-position: center;
 }
 
 /* =================== header =================== */
