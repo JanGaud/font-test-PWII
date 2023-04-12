@@ -54,18 +54,18 @@
 .first>h1{
     margin: 0;
     font-family: 'Cinzel Decorative', cursive;
-    font-size: 4rem;
+    font-size: 3rem;
 }
 
 .first>h4{
     margin: 0;
     font-family: 'Lato', sans-serif;
-    font-size: 3rem;
+    font-size: 1rem;
 }
 
 .first>p{
     font-family: 'Alegreya Sans', sans-serif;
-    font-size: 3rem;
+    font-size: 1rem;
 }
 
 /* ==================== Second match ==================== */
@@ -78,19 +78,19 @@
 .second>h1{
     margin: 0;
     font-family: 'Dancing Script', cursive;
-    font-size: 7rem;
+    font-size: 3rem;
 }
 
 .second>h4{
     margin: 0;
     font-family: 'Alkatra', sans-serif;
     font-weight: lighter;
-    font-size: 3rem;
+    font-size: 1rem;
 }
 
 .second>p{
     font-family: 'Kalam', cursive;
-    font-size: 3rem;
+    font-size: 1rem;
 }
 
 /* ==================== Third match ==================== */
@@ -103,18 +103,18 @@
 .third>h1{
     margin: 0;
     font-family: 'Lobster Two', cursive;
-    font-size: 6rem;
+    font-size: 3rem;
 }
 
 .third>h4{
     margin: 0;
     font-family: 'PT Sans Narrow', sans-serif;
-    font-size: 3rem;
+    font-size: 1rem;
 }
 
 .third>p{
     font-family: 'Belleza', sans-serif;
-    font-size: 3rem;
+    font-size: 1rem;
 }
 
 /* ==================== Fourth match ==================== */
@@ -127,18 +127,18 @@
 .fourth>h1{
     margin: 0;
     font-family: 'Merienda', cursive;
-    font-size: 4.5rem;
+    font-size: 3.5rem;
 }
 
 .fourth>h4{
     margin: 0;
     font-family: 'Rubik', sans-serif;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
 }
 
 .fourth>p{
     font-family: 'Sen', sans-serif;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
 }
 
 /* ==================== Fifth match ==================== */
@@ -151,18 +151,18 @@
 .fifth>h1{
     margin: 0;
     font-family: 'El Messiri', sans-serif;
-    font-size: 5rem;
+    font-size: 3rem;
 }
 
 .fifth>h4{
     margin: 0;
     font-family: 'Oxygen', sans-serif;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
 }
 
 .fifth>p{
     font-family: 'Zen Maru Gothic', serif;
-    font-size: 3rem;
+    font-size: 1rem;
 }
 
 /* ==================== Sixth match ==================== */
@@ -175,17 +175,17 @@
 .sixth>h1{
     margin: 0;
     font-family: 'Nanum Myeongjo', serif;
-    font-size: 5rem;
+    font-size: 3rem;
 }
 
 .sixth>h4{
     margin: 0;
     font-family: 'Caveat', cursive;
-    font-size: 4rem;
+    font-size: 2rem;
 }
 
 .sixth>p{
     font-family: 'Zen Maru Gothic', serif;
     font-style: italic;
-    font-size: 3rem;
+    font-size: 1.5rem;
 }
