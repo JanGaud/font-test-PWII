@@ -132,3 +132,23 @@ nav {
     border-radius: 10px;
 }
 
+
+/* ============== Nav Color scheme show ============== */
+
+.nav-colors .secondary{
+    background-color: var(--SecondaryColor);
+}
+
+.nav-colors .third{
+    background-color: var(--ThirdColor);
+}
+
+.nav-colors .fourth{
+    background-color: var(--FourthColor);
+}
+
+.nav-colors .primary{
+    background-color: var(--BgColor);
+}
+
+
