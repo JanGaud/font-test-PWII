@@ -54,18 +54,18 @@
 .first>h1{
     margin: 0;
     font-family: 'Cinzel Decorative', cursive;
-    font-size: 2.1rem;
+    font-size: clamp(25px, 2.5vw, 3vw);
 }
 
 .first>h4{
     margin: 0;
     font-family: 'Lato', sans-serif;
-    font-size: 2rem;
+    font-size: clamp(18px, 2vw, 2.5vw);
 }
 
 .first>p{
     font-family: 'Alegreya Sans', sans-serif;
-    font-size: 1.2rem;
+    font-size: clamp(16px, 1.7vw, 2vw);
 }
 
 /* ==================== Second match ==================== */
@@ -78,19 +78,19 @@
 .second>h1{
     margin: 0;
     font-family: 'Dancing Script', cursive;
-    font-size: 3.5rem;
+    font-size: clamp(40px, 4.5vw, 5vw);
 }
 
 .second>h4{
     margin: 0;
     font-family: 'Alkatra', sans-serif;
     font-weight: lighter;
-    font-size: 2rem;
+    font-size: clamp(18px, 2vw, 2.5vw);
 }
 
 .second>p{
     font-family: 'Kalam', cursive;
-    font-size: 1rem;
+    font-size: clamp(16px, 1.5vw, 1.7vw);
 }
 
 /* ==================== Third match ==================== */
@@ -103,18 +103,18 @@
 .third>h1{
     margin: 0;
     font-family: 'Lobster Two', cursive;
-    font-size: 3rem;
+    font-size: clamp(40px, 4.2vw, 4.5vw);
 }
 
 .third>h4{
     margin: 0;
     font-family: 'PT Sans Narrow', sans-serif;
-    font-size: 2rem;
+    font-size: clamp(18px, 2vw, 2.5vw);
 }
 
 .third>p{
     font-family: 'Belleza', sans-serif;
-    font-size: 1rem;
+    font-size: clamp(16px, 1.5vw, 1.7vw);
 }
 
 /* ==================== Fourth match ==================== */
@@ -127,18 +127,18 @@
 .fourth>h1{
     margin: 0;
     font-family: 'Merienda', cursive;
-    font-size: 2.2rem;
+    font-size: clamp(30px, 2.8vw, 3.2vw);
 }
 
 .fourth>h4{
     margin: 0;
     font-family: 'Rubik', sans-serif;
-    font-size: 1.7rem;
+    font-size: clamp(18px, 1.5vw, 2vw);
 }
 
 .fourth>p{
     font-family: 'Sen', sans-serif;
-    font-size: 1rem;
+    font-size: clamp(16px, 1.4vw, 1.5vw);
 }
 
 /* ==================== Fifth match ==================== */
@@ -151,18 +151,18 @@
 .fifth>h1{
     margin: 0;
     font-family: 'El Messiri', sans-serif;
-    font-size: 3rem;
+    font-size: clamp(30px, 3.1vw, 3.3vw);
 }
 
 .fifth>h4{
     margin: 0;
     font-family: 'Oxygen', sans-serif;
-    font-size: 2rem;
+    font-size: clamp(18px, 1.8vw, 2.2vw);
 }
 
 .fifth>p{
     font-family: 'Zen Maru Gothic', serif;
-    font-size: 1rem;
+    font-size: clamp(16px, 1.5vw, 1.7vw);
 }
 
 /* ==================== Sixth match ==================== */
@@ -175,21 +175,23 @@
 .sixth>h1{
     margin: 0;
     font-family: 'Nanum Myeongjo', serif;
-    font-size: 3rem;
+    font-size: clamp(30px, 2.8vw, 3vw);
 }
 
 .sixth>h4{
     margin: 0;
     font-family: 'Caveat', cursive;
-    font-size: 2.5rem;
+    font-size: clamp(25px, 2.5vw, 2.8vw);
 }
 
 .sixth>p{
     font-family: 'Zen Maru Gothic', serif;
     font-style: italic;
-    font-size: 1rem;
+    font-size: clamp(16px, 1.5vw, 1.7vw);
 }
 
+
+/* btn-contain fix for btn and fonts preview */
 .btn-contain{
     padding: 0!important;
 }
