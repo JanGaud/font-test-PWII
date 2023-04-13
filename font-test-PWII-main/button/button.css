@@ -34,8 +34,6 @@ body {
 
 /* =================== header =================== */
 
-/* =================== header =================== */
-
 nav {
     z-index: 2;
     position: fixed;
@@ -91,3 +89,4 @@ nav {
     transition: 0.6s;
     text-decoration: overline;
 }
+
